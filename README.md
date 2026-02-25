@@ -86,7 +86,7 @@ Create a .env file in the root directory.
 Add your keys: OPENAI_API_KEY=your_key_here
 
 ⚠️ Medical Disclaimer
-This chatbot is intended for informational purposes only. It does not provide professional medical diagnosis or treatment. Always consult with a licensed healthcare professional for medical advice.
+This chatbot is intended for informational purposes only. It does not provide professional medical diagnosis or treatment. Always consult with a licensed healthcare for medical advice.
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE
